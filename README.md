@@ -1,5 +1,3 @@
-# @purecore/prosodybr
-
 <div align="center" style="background-color: #000">
 
 <img src="https://i.imgur.com/HfKlxGv.png" width=600 style="display:block; margin: 0 auto; margint-top: 20px; background-color: #000" />
