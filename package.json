@@ -1,0 +1,28 @@
+{
+  "name": "@purecore/prosodybr",
+  "version": "0.1.0",
+  "description": "Biblioteca de análise prosódica para PT-BR baseada em sintaxe e regras fonológicas.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prosody",
+    "tts",
+    "pt-br",
+    "syntax",
+    "linguistics",
+    "speech-synthesis"
+  ],
+  "author": "suissa",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "files": [
+    "dist"
+  ]
+}
